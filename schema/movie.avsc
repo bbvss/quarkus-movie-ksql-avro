@@ -1,0 +1,17 @@
+{
+  "type": "record",
+  "namespace": "org.acme",
+  "name": "Movie",
+  "fields": [
+    {
+      "name": "year",
+      "type": "string",
+      "doc": "The year of the movie."
+    },
+    {
+      "name": "title",
+      "type": "string",
+      "doc": "The title of the movie."
+    }
+  ]
+}

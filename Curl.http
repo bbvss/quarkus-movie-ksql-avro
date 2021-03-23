@@ -1,0 +1,43 @@
+POST http://localhost:8080
+Content-Type: application/json
+
+{
+  "year": "1994",
+  "title": "The Shawshank Redemption"
+}
+
+###
+POST http://localhost:8080
+Content-Type: application/json
+
+{
+  "year": "1972",
+  "title": "The Godfather"
+}
+
+###
+POST http://localhost:8080
+Content-Type: application/json
+
+{
+  "year": "2008",
+  "title": "The Dark Knight"
+}
+
+###
+POST http://localhost:8080
+Content-Type: application/json
+
+{
+  "year": "1994",
+  "title": "Pulp Fiction"
+}
+
+###
+POST http://localhost:8080
+Content-Type: application/json
+
+{
+  "year": "2010",
+  "title": "Inception"
+}
